@@ -41,7 +41,7 @@ If you move your app from personal account to a Team or vice versa you will need
 ## Notes about the Jira integration script
 
 ### Jira account and API token 
-The script used curl requests to call the Jira API. 
+The script uses curl requests to call the Jira API. 
 
 You will need a Jira account and and API token which can be created at the following URL: 
 
