@@ -60,7 +60,7 @@ Alternatively use an online tool to encode this string.
 
 ### Atalassian Document Format for comments
 
-A JSON payload is used to add comments an issue, epic, or story. The Atlassasion Document Format (ADF) is used to format the comment layout and style. This example uses a .json template located in .templates/jira.json and string substition to replace values in the template using sed. See the following URL for details on how to structure comments using Atlassion Document Format:
+A JSON payload is used to add comments to a Jira issue, epic, or story. The Atlassasion Document Format (ADF) is used to format the comment layout and style. This example uses a .json template located in .templates/jira.json and string substition to replace values in the template using sed. See the following URL for details on how to structure comments using Atlassion Document Format:
 
 https://developer.atlassian.com/cloud/jira/platform/apis/document/structure/
 
