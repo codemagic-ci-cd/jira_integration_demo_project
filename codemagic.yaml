@@ -28,7 +28,7 @@ workflows:
         node: latest
         xcode: latest
         cocoapods: default
-      triggering:
+      triggering: # For details about triggering builds see - https://docs.codemagic.io/getting-started/yaml/#triggering
         events:
           - push
           - tag
