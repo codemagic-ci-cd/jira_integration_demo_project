@@ -1,4 +1,4 @@
-# Jira Integratio Demo Project (YAML build configuration)
+# Jira Integration Demo Project (YAML build configuration)
 
 ## Jira Integration starter template 
 
