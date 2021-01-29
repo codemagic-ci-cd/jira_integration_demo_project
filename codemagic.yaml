@@ -1,6 +1,6 @@
 workflows:
-    ios-swiftly:
-      name: ios_swiftly
+    ios-workflow:
+      name: iOS Workflow
       instance_type: mac_mini
       environment:
         vars:
