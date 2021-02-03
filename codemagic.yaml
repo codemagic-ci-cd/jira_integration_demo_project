@@ -170,5 +170,5 @@ workflows:
         slack:
           channel: "#builds"
         app_store_connect:                 
-          apple_id: Encrypted(...) # <-- Put you encrypted Apple ID here
-          password: Encrypted(...) # <-- Put your encrypted App Specific Password here. For more information visit: https://support.apple.com/en-us/HT204397   
+          apple_id: $APP_SPECIFIC_PASSWORD
+          password: $APPLE_ID
