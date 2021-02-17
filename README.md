@@ -28,7 +28,7 @@ If you move your app from personal account to a Team or vice versa you will need
 
 <ol>
 <li>Add a copy of the codemagic.yaml to the root of the repository branch you want to build</li>
-<li>Copy the .scripts folder which contains the jira.json template file to the root of your repository</li>
+<li>Copy the .templates folder which contains the jira.json template file to the root of your repository</li>
 <li>Update the values in codemagic.yaml file in the indicated places. Use the documentation links for help if required.</li>
 <li>Login to your Codemagic account at https://codemagic.io/login</li>
 <li>Add the repository for your iOS application in the Codemagic web app</li>
